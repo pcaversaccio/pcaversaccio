@@ -31,6 +31,6 @@
 <p> <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> </p>
 
 ### 🔎 Some stats
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio)
+![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio&count_private=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pcaversaccio.count_visitors)
