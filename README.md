@@ -10,7 +10,7 @@
 - 🎓 Master of Science UZH ETH in Quantitative Finance
 - ❤️ I'm passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
 - 📫 How to reach me: [pascal.caversaccio@hotmail.ch](mailto:pascal.caversaccio@hotmail.ch).
-- 🏠 Berne
+- 🏠 Berne, Switzerland
 - 🌱 I'm currently learning not to go insane - generally speaking.
 - 💬 Ask me about anything - maybe I can help you; most likely not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
