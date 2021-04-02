@@ -5,7 +5,7 @@
 
 ### About me 💯
 
-- 🔭 I’m currently working on what's next.
+- 🔭 I'm currently working on what's next.
 - 🔧 I'm the Founder & CEO of [DAITA Technologies](https://daita.tech).
 - 🎓 Master of Science UZH ETH in Quantitative Finance
 - ❤️ I'm passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
