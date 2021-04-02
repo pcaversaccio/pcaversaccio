@@ -21,14 +21,14 @@
 ### 🎯 Skills
 <p> <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> </p>
 
-- Solidity
-- PyTorch
-- web3.js
-- Anaconda
-- Cloudflare
+- [Solidity](https://docs.soliditylang.org/)
+- [PyTorch](https://pytorch.org/)
+- [web3.js](https://web3js.readthedocs.io/)
+- [Anaconda](https://www.anaconda.com/)
+- [Cloudflare](https://www.cloudflare.com/)
 
 ### 💰 Funding
-<p> <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/> </p>
+<p> <a href="https://bitcoin.org/" target="_blank"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a> <a href="https://www.paypal.com/" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> </p>
 
 ### 🔎 Some stats
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio&count_private=true&show_icons=true&?&theme=tokyonight)
