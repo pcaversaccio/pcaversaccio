@@ -24,6 +24,7 @@
 - [Solidity](https://docs.soliditylang.org/)
 - [web3.js](https://web3js.readthedocs.io/)
 - [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/)
 - [Anaconda](https://www.anaconda.com/)
 - [Cloudflare](https://www.cloudflare.com/)
 
