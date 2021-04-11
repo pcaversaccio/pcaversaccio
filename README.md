@@ -32,8 +32,8 @@
 <p> <a href="https://bitcoin.org" target="_blank"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a> <a href="https://www.paypal.com" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> </p>
 
 ### 🔎 Some stats
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio&count_private=true&show_icons=true&?&theme=tokyonight)
+![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=10&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pcaversaccio.count_visitors)
