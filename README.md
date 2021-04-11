@@ -34,6 +34,6 @@
 ### 🔎 Some stats
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcaversaccio&count_private=true&show_icons=true&?&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pcaversaccio.count_visitors)
