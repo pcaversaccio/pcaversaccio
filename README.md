@@ -5,12 +5,13 @@
 
 ### About me 💯
 
-- 🔭 I'm currently working on what's next.
-- 🔧 I'm the Founder & CEO of [DAITA Technologies](https://daita.tech).
-- 🎓 I hold a Master's degree in Quantitative Finance from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
-- ❤️ I'm passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
+- 🔭 I'm currently working on **what's next**.
+- 🔧 My day job is running an AI data company called [DAITA Technologies](https://daita.tech) as its Founder and CEO.
+- 👨‍💻 To avoid getting bored, I'm also a Blockchain Consultant at [Apps with love](https://appswithlove.com).
+- 🎓 I hold a Master's degree in [Quantitative Finance](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html) from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
+- ❤️ Generally, I'm truly passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
 - 📫 How to reach me: [pascal.caversaccio@hotmail.ch](mailto:pascal.caversaccio@hotmail.ch).
-- 🏠 I'm proudly based in Berne, Switzerland.
+- 🏠 Where I am at home: I'm proudly based in Berne, Switzerland.
 - 🌱 I'm currently learning not to go insane - generally speaking.
 - 💬 Ask me about anything - maybe I can help you; most likely not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
