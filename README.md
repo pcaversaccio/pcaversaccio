@@ -30,6 +30,9 @@
 - [Anaconda](https://www.anaconda.com)
 - [Cloudflare](https://www.cloudflare.com)
 
+### 📦 `npm` Packages
+- [xdeployer](https://www.npmjs.com/package/xdeployer) - A [Hardhat](https://hardhat.org) plugin to deploy your smart contracts across multiple Ethereum Virtual Machine (EVM) chains with the same deterministic address.
+
 ### 💰 Funding
 <p> <a href="https://bitcoin.org" target="_blank"><img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a> <a href="https://www.paypal.com" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a> </p>
 
