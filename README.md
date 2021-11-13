@@ -66,6 +66,8 @@
         src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
     <a href="https://www.cloudflare.com" target="_blank"><img alt="Cloudflare"
         src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
+</p>
+<p>
     <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
         src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
     <a href="https://numpy.org" target="_blank"><img alt="NumPy"
