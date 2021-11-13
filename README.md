@@ -58,8 +58,6 @@
 
 #### Toolings / Platforms / Infrastructure Providers / Libraries
 <p>
-    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
-        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
     <a href="https://git-scm.com" target="_blank"><img alt="Git"
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://www.postman.com" target="_blank"><img alt="Postman"
@@ -68,6 +66,12 @@
         src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
     <a href="https://www.cloudflare.com" target="_blank"><img alt="Cloudflare"
         src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
+    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
+        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+    <a href="https://numpy.org" target="_blank"><img alt="NumPy"
+        src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+    <a href="https://scipy.org" target="_blank"><img alt="SciPy"
+        src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
 
 - [web3.js](https://web3js.readthedocs.io)
