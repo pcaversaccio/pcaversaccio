@@ -34,18 +34,16 @@
         src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
 </p>
 
-#### Frameworks / RTEs / Libraries
+#### Frameworks and Runtime Environments
 <p>
     <a href="https://angular.io" target="_blank"><img alt="Angular"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
     <a href="https://pytorch.org" target="_blank"><img alt="PyTorch"
         src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
     <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow"
         src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
-        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
 
 #### Package, Dependency, and Environment Management
@@ -58,8 +56,10 @@
         src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
 </p>
 
-#### Further Toolings / Platforms / Infrastructure Providers / Libraries
+#### Toolings / Platforms / Infrastructure Providers / Libraries
 <p>
+    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
+        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
     <a href="https://git-scm.com" target="_blank"><img alt="Git"
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://www.postman.com" target="_blank"><img alt="Postman"
