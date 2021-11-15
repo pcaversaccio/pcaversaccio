@@ -1,18 +1,18 @@
 ### Hi there 👋 I'm Pascal
 
 <p> 
+    <a href="https://discordapp.com/users/pcaversaccio#0707" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://github.com/pcaversaccio" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/pascalmarcocaversaccio" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/pcaversaccio" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://medium.com/@pcaversaccio" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.reddit.com/user/pcaversaccio" target="_blank"><img alt="Reddit"
         src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/pcaversaccio#0707" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://twitter.com/pcaversaccio" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ### About me 💯
@@ -60,12 +60,12 @@
 <p>
     <a href="https://angular.io" target="_blank"><img alt="Angular"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
     <a href="https://pytorch.org" target="_blank"><img alt="PyTorch"
         src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
     <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow"
         src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
 
 - [Hardhat](https://hardhat.org)
@@ -85,26 +85,26 @@
 #### 🛠 Toolings, platforms, infrastructure providers, and libraries
 
 <p>
-    <a href="https://git-scm.com" target="_blank"><img alt="Git"
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://www.postman.com" target="_blank"><img alt="Postman"
-        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
     <a href="https://aws.amazon.com" target="_blank"><img alt="AWS"
         src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
     <a href="https://www.cloudflare.com" target="_blank"><img alt="Cloudflare"
         src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
+    <a href="https://git-scm.com" target="_blank"><img alt="Git"
+        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="https://www.postman.com" target="_blank"><img alt="Postman"
+        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 </p>
 <p>
-    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
-        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
     <a href="https://numpy.org" target="_blank"><img alt="NumPy"
         src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+    <a href="https://opencv.org" target="_blank"><img alt="OpenCV"
+        src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
     <a href="https://scipy.org" target="_blank"><img alt="SciPy"
         src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
 
-- [web3.js](https://web3js.readthedocs.io)
 - [ethers.js](https://docs.ethers.io)
+- [web3.js](https://web3js.readthedocs.io)
 
 ### 📦 `npm` packages
 
