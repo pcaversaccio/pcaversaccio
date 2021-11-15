@@ -32,8 +32,8 @@
 ### 💻 OS
 
 <p> 
-    <a href="https://www.linux.org" target="_blank"><img alt="Linux"
-        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+    <a href="https://www.debian.org" target="_blank"><img alt="Debian"
+        src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
     <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
@@ -67,6 +67,9 @@
     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 </p>
+
+- [Hardhat](https://hardhat.org)
+- [Truffle Suite](https://trufflesuite.com)
 
 #### 🗃 Package, dependency, and environment management
 
