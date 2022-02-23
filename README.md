@@ -104,6 +104,8 @@
 </p>
 
 - [ethers.js](https://docs.ethers.io)
+- [DappTools](https://github.com/dapphub/dapptools)
+- [Foundry](https://github.com/gakonst/foundry)
 - [web3.js](https://web3js.readthedocs.io)
 
 ### 📦 `npm` packages
