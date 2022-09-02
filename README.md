@@ -55,6 +55,8 @@
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </p>
 
+- [Vyper](https://vyper.readthedocs.io)
+
 #### 🎛 Frameworks and runtime environments
 
 <p>
