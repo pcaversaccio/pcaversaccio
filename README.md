@@ -113,11 +113,11 @@
 
 ### 📦 `npm` packages
 
-- [xdeployer](https://www.npmjs.com/package/xdeployer) - A [Hardhat](https://hardhat.org) plugin to deploy your smart contracts across multiple Ethereum Virtual Machine (EVM) chains with the same deterministic address.
+- [xdeployer](https://www.npmjs.com/package/xdeployer) – A [Hardhat](https://hardhat.org) plugin to deploy your smart contracts across multiple Ethereum Virtual Machine (EVM) chains with the same deterministic address.
 
 ### 📚 Smart contract libraries
 
-- [🐍 snekmate](https://github.com/pcaversaccio/snekmate) - State-of-the-art, highly opinionated, hyper-optimised, and secure [Vyper](https://github.com/vyperlang/vyper) smart contract building blocks.
+- [🐍 snekmate](https://github.com/pcaversaccio/snekmate) – State-of-the-art, highly opinionated, hyper-optimised, and secure [Vyper](https://github.com/vyperlang/vyper) smart contract building blocks.
 
 ### 💰 Funding
 
