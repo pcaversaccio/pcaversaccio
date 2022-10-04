@@ -119,6 +119,10 @@
 
 - [🐍 snekmate](https://github.com/pcaversaccio/snekmate) – State-of-the-art, highly opinionated, hyper-optimised, and secure [Vyper](https://github.com/vyperlang/vyper) smart contract building blocks.
 
+### 😎 Miscellaneous
+
+- [A Historical Collection of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks) – A chronological and (hopefully) complete list of reentrancy attacks to date.
+
 ### 💰 Funding
 
 <p>
