@@ -13,6 +13,8 @@
         src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
     <a href="https://twitter.com/pcaversaccio" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://pcaversaccio.com" target="_blank"><img alt="Personal Website"
+        src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>
 </p>
 
 ### About me 💯
