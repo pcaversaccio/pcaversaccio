@@ -128,6 +128,7 @@
 - [⚔️ A Historical Collection of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks) – A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [Batch Distributor](https://github.com/pcaversaccio/batch-distributor) – Helper smart contract for batch sending both native and ERC-20 tokens.
 - [`CREATE2` Deployer](https://github.com/pcaversaccio/create2deployer) – Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
+- [Fully-Fledged Hardhat Project Template](https://github.com/pcaversaccio/hardhat-project-template-ts) – A fully-fledged Hardhat project template based on TypeScript.
 - [🕵️‍♂️ TORN Detector](https://github.com/pcaversaccio/torn-detector) – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through [Tornado.Cash](https://github.com/tornadocash).
 
 ### 💰 Funding
