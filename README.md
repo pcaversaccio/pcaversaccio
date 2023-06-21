@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pascal
 
 <p> 
-    <a href="https://discordapp.com/users/pcaversaccio#0707" target="_blank"><img alt="Discord"
+    <a href="https://discordapp.com/users/pcaversaccio" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://github.com/pcaversaccio" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
