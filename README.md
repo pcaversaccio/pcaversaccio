@@ -134,6 +134,7 @@
     - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
     - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
     - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
+    - [Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
 
 ### 💰 Funding
 
