@@ -153,4 +153,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaversaccio&layout=compact&langs_count=8&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pcaversaccio.count_visitors)
+![Visitors](https://komarev.com/ghpvc/?username=pcaversaccio&color=blue&style=flat&label=Visitors)
