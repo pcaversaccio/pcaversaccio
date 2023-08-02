@@ -22,8 +22,7 @@
 ### About me 💯
 
 - 🔭 I'm currently working on **what's next**.
-- 🔧 My day job is running an AI data company called [DAITA Technologies](https://daita.tech) as its Founder and CEO.
-- 👨‍💻 To keep things interesting, I'm also a Blockchain Consultant at [Apps with love](https://appswithlove.com) and [blokk](https://blokk.studio).
+- 🔧 My day (and sometimes night) job is to help safeguard the Ethereum ecosystem.
 - ➕ Previously, I founded [Alethena](https://web.archive.org/web/20190519204013/https://www.alethena.com), a company pioneering Ethereum-based tokenised shares and their trading via an automated market maker in Switzerland.
 - 🎓 I hold a Master's degree in [Quantitative Finance](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html) from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
 - ❤️ Generally, I'm truly passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
