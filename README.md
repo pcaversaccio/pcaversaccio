@@ -23,7 +23,7 @@
 
 - 🔭 I'm currently working on **what's next**.
 - 🔧 My day (and sometimes night) job is to help safeguard the Ethereum ecosystem.
-- ➕ Previously, I founded [Alethena](https://web.archive.org/web/20190519204013/https://www.alethena.com), a company pioneering Ethereum-based tokenised shares and their trading via an automated market maker in Switzerland.
+- ➕ Previously, I founded [DAITA Technologies](https://daita.tech), a Swiss-based startup specialising in transforming raw data into AI-ready data sets at scale, and [Alethena](https://web.archive.org/web/20190519204013/https://www.alethena.com), a company pioneering Ethereum-based tokenised shares and their trading via an automated market maker in Switzerland.
 - 🎓 I hold a Master's degree in [Quantitative Finance](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html) from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
 - ❤️ Generally, I'm truly passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
 - 📫 How to reach me: [pascal.caversaccio@hotmail.ch](mailto:pascal.caversaccio@hotmail.ch).
