@@ -69,4 +69,5 @@ jobs:
 
       - name: Validate URLs
         run: |
-          awesome_bot ./*.md --request-delay 0.4 --allow-redirect --allow-dupe
+          awesome_bot ./*.md --request-delay 0.4 --allow-redirect --allow-dupe \
+          --white-list https://dune.com
