@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pascal
 
 <p> 
-    <a href="https://discordapp.com/users/pcaversaccio" target="_blank"><img alt="Discord"
+    <a href="https://discord.com/users/pcaversaccio" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://github.com/pcaversaccio" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -111,7 +111,7 @@
 
 - [ethers.js](https://docs.ethers.io)
 - [DappTools](https://github.com/dapphub/dapptools)
-- [Foundry](https://github.com/gakonst/foundry)
+- [Foundry](https://github.com/foundry-rs/foundry)
 - [web3.js](https://web3js.readthedocs.io)
 
 ### 📦 `npm` packages
@@ -130,10 +130,10 @@
 - [Fully-Fledged Hardhat Project Template](https://github.com/pcaversaccio/hardhat-project-template-ts) – A fully-fledged Hardhat project template based on TypeScript.
 - [🕵️‍♂️ TORN Detector](https://github.com/pcaversaccio/torn-detector) – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through [Tornado.Cash](https://github.com/tornadocash).
 - 📊 Dune Dashboards:
-    - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
-    - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
-    - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
-    - [Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
+  - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
+  - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
+  - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
+  - [Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
 
 ### 💰 Funding
 
