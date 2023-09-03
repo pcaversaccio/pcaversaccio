@@ -130,10 +130,10 @@
 - [Fully-Fledged Hardhat Project Template](https://github.com/pcaversaccio/hardhat-project-template-ts) – A fully-fledged Hardhat project template based on TypeScript.
 - [🕵️‍♂️ TORN Detector](https://github.com/pcaversaccio/torn-detector) – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through [Tornado.Cash](https://github.com/tornadocash).
 - 📊 Dune Dashboards:
-    - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
-    - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
-    - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
-    - [Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
+  - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
+  - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
+  - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
+  - [Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
 
 ### 💰 Funding
 
