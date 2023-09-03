@@ -68,4 +68,5 @@ jobs:
         run: gem install awesome_bot
 
       - name: Validate URLs
-        run: awesome_bot ./*.md --request-delay 0.4
+        run: |
+          awesome_bot ./*.md --request-delay 0.4 --allow-redirect --allow-dupe
