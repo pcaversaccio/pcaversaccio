@@ -73,6 +73,8 @@
         src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 </p>
 
+- [DappTools](https://github.com/dapphub/dapptools)
+- [Foundry](https://github.com/foundry-rs/foundry)
 - [Hardhat](https://hardhat.org)
 - [Truffle Suite](https://trufflesuite.com)
 
@@ -110,8 +112,6 @@
 </p>
 
 - [ethers.js](https://docs.ethers.io)
-- [DappTools](https://github.com/dapphub/dapptools)
-- [Foundry](https://github.com/foundry-rs/foundry)
 - [web3.js](https://web3js.readthedocs.io)
 
 ### 📦 `npm` packages
