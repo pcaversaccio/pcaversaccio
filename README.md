@@ -73,6 +73,8 @@
         src="https://img.shields.io/badge/conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
     <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://pnpm.io" target="_blank"><img alt="pnpm"
+        src="https://img.shields.io/badge/pnpm-%234a4a4a?style=for-the-badge&logo=pnpm&logoColor=f69220"/></a>
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
         src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
 </p>
