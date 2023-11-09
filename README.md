@@ -1,20 +1,8 @@
 ### Hi there 👋 I'm Pascal
 
 <p> 
-    <a href="https://discord.com/users/pcaversaccio" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://github.com/pcaversaccio" target="_blank"><img alt="GitHub"
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/pascalmarcocaversaccio" target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://infosec.exchange/@pcaversaccio" target="_blank"><img alt="Mastodon"
-        src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
-    <a href="https://medium.com/@pcaversaccio" target="_blank"><img alt="Medium"
-        src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://www.reddit.com/user/pcaversaccio" target="_blank"><img alt="Reddit"
-        src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-    <a href="https://twitter.com/pcaversaccio" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://linktr.ee/pcaversaccio" target="_blank"><img alt="Linktree"
+        src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
     <a href="https://pcaversaccio.com" target="_blank"><img alt="Personal Website"
         src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>
 </p>
@@ -82,7 +70,7 @@
 
 <p>
     <a href="https://docs.conda.io" target="_blank"><img alt="Conda"
-        src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+        src="https://img.shields.io/badge/conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
     <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
@@ -127,6 +115,7 @@
 - [⚔️ A Historical Collection of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks) – A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [Batch Distributor](https://github.com/pcaversaccio/batch-distributor) – Helper smart contract for batch sending both native and ERC-20 tokens.
 - [`CREATE2` Deployer](https://github.com/pcaversaccio/create2deployer) – Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
+- [`CreateX` – A Trustless, Universal Contract Deployer](https://github.com/pcaversaccio/createx) – Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.
 - [Fully-Fledged Hardhat Project Template](https://github.com/pcaversaccio/hardhat-project-template-ts) – A fully-fledged Hardhat project template based on TypeScript.
 - [🕵️‍♂️ TORN Detector](https://github.com/pcaversaccio/torn-detector) – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through [Tornado.Cash](https://github.com/tornadocash).
 - 📊 Dune Dashboards:
