@@ -20,7 +20,7 @@
 - 💬 Ask me about anything – maybe I can help you; most likely not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
 
-### 💻 OS
+### 💻 OSes
 
 <p> 
     <a href="https://www.debian.org" target="_blank"><img alt="Debian"
