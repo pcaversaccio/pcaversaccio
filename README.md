@@ -2,7 +2,7 @@
 
 <p> 
     <a href="https://linktr.ee/pcaversaccio" target="_blank"><img alt="Linktree"
-        src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+        src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
 ### About me 💯
