@@ -125,6 +125,7 @@
 - 📝 Articles:
   - [Understanding Ethereum ERC-20 Meta-Transactions](https://betterprogramming.pub/ethereum-erc-20-meta-transactions-4cacbb3630ee)
   - [How 🐍Vyper Compiles Into Bytecode](https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode)
+  - [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)
 - 🧠 EIPs:
   - [EIP-6789: Rename gas to mana](https://eips.ethereum.org/EIPS/eip-6789)
   - [EIP-7266: Remove `BLAKE2` compression precompile](https://eips.ethereum.org/EIPS/eip-7266)
