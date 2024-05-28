@@ -43,7 +43,7 @@
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </p>
 
-- [🐍 Vyper](https://vyper.readthedocs.io)
+- [🐍Vyper](https://vyper.readthedocs.io)
 
 #### 🎛 Frameworks and runtime environments
 
@@ -121,7 +121,7 @@
   - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
   - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
   - [Selfdestruct](https://dune.com/pcaversaccio/selfdestruct)
-  - [Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
+  - [🐍Vyper Deployment Statistics](https://dune.com/pcaversaccio/vyper-deployment-statistics)
 - 📝 Articles:
   - [Understanding Ethereum ERC-20 Meta-Transactions](https://betterprogramming.pub/ethereum-erc-20-meta-transactions-4cacbb3630ee)
   - [How 🐍Vyper Compiles Into Bytecode](https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode)
