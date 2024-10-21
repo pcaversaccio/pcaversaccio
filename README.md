@@ -116,7 +116,9 @@
 - [`CREATE2` Deployer](https://github.com/pcaversaccio/create2deployer) – Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 - [`CreateX` – A Trustless, Universal Contract Deployer](https://github.com/pcaversaccio/createx) – Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.
 - [Fully-Fledged Hardhat Project Template](https://github.com/pcaversaccio/hardhat-project-template-ts) – A fully-fledged Hardhat project template based on TypeScript.
+- [Safe Multisig Transaction Hashes](https://github.com/pcaversaccio/safe-tx-hashes-util) – This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard.
 - [🕵️‍♂️ TORN Detector](https://github.com/pcaversaccio/torn-detector) – Detect if a contract has been deployed in the latest (or predefined) block from an address that was previously funded through [Tornado.Cash](https://github.com/tornadocash).
+- [White Hat Frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning) – White hat frontrunning script to outpace hackers and secure funds from compromised wallets.
 - 📊 Dune Dashboards:
   - [Smart Contract Deployment Statistics](https://dune.com/pcaversaccio/smart-contract-deployment-statistics)
   - [Minimal Proxies](https://dune.com/pcaversaccio/minimal-proxies)
