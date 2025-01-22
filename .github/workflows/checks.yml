@@ -43,6 +43,7 @@ jobs:
         uses: codespell-project/actions-codespell@v2
         with:
           check_filenames: true
+          skip: ./.git
           ignore_words_list: daita
 
   validate-links:
@@ -52,7 +53,7 @@ jobs:
         os:
           - ubuntu-latest
         ruby-version:
-          - 3.3
+          - 3.4
 
     steps:
       - name: Checkout
