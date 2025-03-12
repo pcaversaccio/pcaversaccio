@@ -131,6 +131,7 @@
 - 🧠 EIPs:
   - [EIP-6789: Rename gas to mana](https://eips.ethereum.org/EIPS/eip-6789)
   - [EIP-7266: Remove `BLAKE2` compression precompile](https://eips.ethereum.org/EIPS/eip-7266)
+  - [EIP-7791: `GAS2ETH` opcode](https://eips.ethereum.org/EIPS/eip-7791)
 
 ### 💰 Funding
 
