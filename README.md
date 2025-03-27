@@ -131,7 +131,7 @@
   - [EOF: When Complexity Outweighs Necessity](https://hackmd.io/@pcaversaccio/eof-when-complexity-outweighs-necessity)
   - [`1inch-analysis.app` — A DPRK Trojan Horse](https://hackmd.io/@pcaversaccio/1inch-analysis-app-a-dprk-trojan-horse)
 - 🧠 EIPs:
-  - [EIP-6789: Rename gas to mana](https://eips.ethereum.org/EIPS/eip-6789)
+  - [EIP-6789: Rename `gas` to `mana`](https://eips.ethereum.org/EIPS/eip-6789)
   - [EIP-7266: Remove `BLAKE2` compression precompile](https://eips.ethereum.org/EIPS/eip-7266)
   - [EIP-7791: `GAS2ETH` opcode](https://eips.ethereum.org/EIPS/eip-7791)
 
