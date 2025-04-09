@@ -130,6 +130,7 @@
   - [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)
   - [EOF: When Complexity Outweighs Necessity](https://hackmd.io/@pcaversaccio/eof-when-complexity-outweighs-necessity)
   - [`1inch-analysis.app` — A DPRK Trojan Horse](https://hackmd.io/@pcaversaccio/1inch-analysis-app-a-dprk-trojan-horse)
+  - [Ethereum Privacy: The Road to Self-Sovereignty](https://hackmd.io/@pcaversaccio/ethereum-privacy-the-road-to-self-sovereignty)
 - 🧠 EIPs:
   - [EIP-6789: Rename `gas` to `mana`](https://eips.ethereum.org/EIPS/eip-6789)
   - [EIP-7266: Remove `BLAKE2` compression precompile](https://eips.ethereum.org/EIPS/eip-7266)
