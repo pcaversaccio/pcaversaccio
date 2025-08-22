@@ -9,9 +9,7 @@
 
 - 🔭 I'm currently working on **what's next**.
 - 🔧 My day (and sometimes night) job is to help safeguard the Ethereum ecosystem.
-- ➕ Previously, I founded [DAITA Technologies](https://daita.tech), a Swiss-based startup specialising in transforming raw data into AI-ready data sets at scale, and [Alethena](https://github.com/alethena), a company pioneering Ethereum-based tokenised shares and their trading via an automated market maker in Switzerland.
-- 🎓 I hold a Master's degree in [Quantitative Finance](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html) from the Swiss Federal Institute of Technology Zurich (ETH Zurich).
-- ❤️ Generally, I'm truly passionate about **Machine/Deep Learning, Computer Vision, Ethereum Smart Contracts, Bitcoin, and OSS Engineering**.
+- ❤️ Generally, I'm truly passionate about **Privacy, Security, Cryptography, Ethereum, Bitcoin, and OSS Engineering**.
 - 🌱 I'm currently learning not to go insane – broadly speaking.
 - 💬 Ask me about anything – maybe I can help you; most likely not.
 - ⚡ Fun fact: It took less code to send a man to the moon than to run a smartphone.
