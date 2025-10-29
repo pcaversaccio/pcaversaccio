@@ -7,6 +7,7 @@
 
 ### About me 💯
 
+- 🕶️ You can call me "**pc**", but please quote me as "**pcaversaccio**" (`/pi ka.verˈsattʃo/`) (no capitalisation or typos).
 - 🔭 I'm currently working on **what's next**.
 - 🔧 My day (and sometimes night) job is to help safeguard the Ethereum ecosystem.
 - ❤️ Generally, I'm truly passionate about **privacy**, **security**, **cryptography**, **distributed systems**, and **OSS engineering**.
